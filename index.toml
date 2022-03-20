@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/FUNDING.yml"
+hash = "3458b4b3cc2f906498e604e21c464e26aae397aeb96aae51002460e246eddafe"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE.md"
+hash = "de07612ce3b8f50b0f2c7cc7fef11590181559372121a3711228348bcd143d87"
+
+[[files]]
+file = ".github/README.md"
+hash = "821d9c230fba2365655edc3b3d0824a5f99cd3cc95d64fc0f1f33eddf6f88b31"
+
+[[files]]
+file = ".github/move.yml"
+hash = "90470597800bb2df11487203de2d8f675bf18eadebf2e567761f7790d75ead02"
+
+[[files]]
+file = ".github/no-response.yml"
+hash = "d6e67ebe33625dcf75d05550b2322f814e0345e13adbd913fc89c60697995633"
+
+[[files]]
+file = ".github/support.yml"
+hash = "e6790f8b0e88ccb97677b924eaca587606c6189e3db4a8e8c7d7c3dc532c3c1e"
+
+[[files]]
 file = ".prettierrc"
 hash = "eb8ac181ad36a1f60218ce18fd592b034b3434e7fd65adb44500eb72113adef8"
 
@@ -2771,6 +2795,11 @@ hash = "475ff21317d758519cf1245d9a8c1a74b0b798fc1bb74bfb7cbc64c46d632e16"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.toml"
+hash = "ad9f436ce6d5d21efc45793e8d5d83a1777fe70b630d4c4a52abeb07bae0de4c"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.toml"
 hash = "2092f5d858a2465ac9832dcd2a8f6c48608048b1aa8a90abafb0e7e0cb1f5de2"
 metafile = true
@@ -3336,6 +3365,11 @@ hash = "9cc3a5b6d5b30ffc050361a2e56b1dd616632e0e6fb885c48775472498821e43"
 metafile = true
 
 [[files]]
+file = "mods/mrtjpcore.toml"
+hash = "cc9385bac9b3dca6e188020d412fc99cbbd4e6d8b6d8ed5f0cc5c87d0d595a07"
+metafile = true
+
+[[files]]
 file = "mods/mtlib.toml"
 hash = "b6c03a62cfa94c22bddc9133e060f0e80536961c475f4dc11e05b6c393bf8e9b"
 metafile = true
@@ -3473,6 +3507,36 @@ metafile = true
 [[files]]
 file = "mods/project-intelligence.toml"
 hash = "80ba24bb447f64f426879fc785ca0210460007b870c733a07dea8e5c18e074eb"
+metafile = true
+
+[[files]]
+file = "mods/project-red-compat.toml"
+hash = "7fa287095b47b5de862dccab0595a299c02c127397cc1488bd5bb9aa75292871"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.toml"
+hash = "e649baaaa2bc6812685a649e611f25a13770a1d5d86e0c19ec2d879ce258851d"
+metafile = true
+
+[[files]]
+file = "mods/project-red-expansion.toml"
+hash = "228adb8b0f1110e661ce51845f7dbfffb1da89c67d80bb38d8c8e33dcb83bc68"
+metafile = true
+
+[[files]]
+file = "mods/project-red-fabrication.toml"
+hash = "aef4b345dec0eda76ccb30f418383b9e7cba53bdf8406213d0f74beeee8a3cbe"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.toml"
+hash = "c225d17120793ac664024af8530a2e277565a1de320e2ea7b530e46f7c429c2e"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.toml"
+hash = "f04a8a91b0871a6aeba17ef874fd2c2fce48212b2215e277be9031475c941c05"
 metafile = true
 
 [[files]]
