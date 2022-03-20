@@ -1,0 +1,13 @@
+name = "Industrial Craft"
+filename = "industrialcraft-2-2.8.164-ex112.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2728/635/industrialcraft-2-2.8.164-ex112.jar"
+hash-format = "sha1"
+hash = "7a1d61988eb3b34dc26c8c264158baad6a120166"
+
+[update]
+[update.curseforge]
+file-id = 2728635
+project-id = 242638

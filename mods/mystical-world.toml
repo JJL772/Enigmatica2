@@ -1,0 +1,13 @@
+name = "Mystical World"
+filename = "mysticalworld-1.12.2-1.9.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3324/116/mysticalworld-1.12.2-1.9.8.jar"
+hash-format = "sha1"
+hash = "ceaf1f26e12628c9c47af3a8a5a903ce9ec7a2e8"
+
+[update]
+[update.curseforge]
+file-id = 3324116
+project-id = 282940

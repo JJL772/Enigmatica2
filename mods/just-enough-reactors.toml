@@ -1,0 +1,13 @@
+name = "Just Enough Reactors"
+filename = "JustEnoughReactors-1.12.2-1.1.1.47.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2556/992/JustEnoughReactors-1.12.2-1.1.1.47.jar"
+hash-format = "sha1"
+hash = "2aaea6fd458f04eab97f5ab93145d9b598684acf"
+
+[update]
+[update.curseforge]
+file-id = 2556992
+project-id = 292952

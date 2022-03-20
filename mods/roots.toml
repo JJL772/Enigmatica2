@@ -1,0 +1,13 @@
+name = "Roots"
+filename = "Roots-1.12.2-3.0.35.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3324/901/Roots-1.12.2-3.0.35.jar"
+hash-format = "sha1"
+hash = "1541386dfb27a0655502b063474da03abdad417c"
+
+[update]
+[update.curseforge]
+file-id = 3324901
+project-id = 246183

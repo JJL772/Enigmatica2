@@ -1,0 +1,13 @@
+name = "Carry On"
+filename = "carryon-1.12.2-1.12.4.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3271/178/carryon-1.12.2-1.12.4.16.jar"
+hash-format = "sha1"
+hash = "c861e9cb57d929473c61376ec1634b9d4f2db5af"
+
+[update]
+[update.curseforge]
+file-id = 3271178
+project-id = 274259

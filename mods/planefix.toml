@@ -1,0 +1,13 @@
+name = "PlaneFix"
+filename = "PlaneFix-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2703/755/PlaneFix-1.12.2-1.0.0.jar"
+hash-format = "sha1"
+hash = "4078e3b01411d1e5e113d1459d148c8698d9e8b1"
+
+[update]
+[update.curseforge]
+file-id = 2703755
+project-id = 320254

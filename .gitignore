@@ -10,7 +10,7 @@
 /saves/
 /TombManyGraves/
 /screenshots/
-/mods/
+/mods/*.jar
 /world/
 /config/enderio/recipes/examples
 **/*.pdf

@@ -1,0 +1,13 @@
+name = "Advanced Rocketry"
+filename = "AdvancedRocketry-1.12.2-2.0.0-250-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3347/618/AdvancedRocketry-1.12.2-2.0.0-250-universal.jar"
+hash-format = "sha1"
+hash = "c8fcc8ca5efbb162f14ce96e21eec5d95759bb56"
+
+[update]
+[update.curseforge]
+file-id = 3347618
+project-id = 236542

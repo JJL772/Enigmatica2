@@ -1,0 +1,13 @@
+name = "Funky Locomotion"
+filename = "funky-locomotion-1.12.2-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2599/318/funky-locomotion-1.12.2-1.1.2.jar"
+hash-format = "sha1"
+hash = "e3cd380517ed2d22902e541937dbf630e5ab0cf1"
+
+[update]
+[update.curseforge]
+file-id = 2599318
+project-id = 224190
